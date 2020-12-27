@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hello_kotlin</string>
+    <string name="image_description">Happy new year image</string>
+    <string name="str_from_whom">from, joseph</string>
+    <string name="your_title">Title</string>
+    <string name="your_message">To</string>
+    <string name="write_here">Write Here</string>
+    <string name="str_send">Send</string>
+    <string name="str_roll">Roll</string>
+    <string name="content_description">Dide one</string>
+</resources>
